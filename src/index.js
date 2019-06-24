@@ -6,4 +6,4 @@ client.on('ready', _ => {
     client.user.setPresence({ game: { 'name': 'in test mode..' } })
 })
 
-client.login(require('./config.json').token)
+client.login(require('../config.json').token)
