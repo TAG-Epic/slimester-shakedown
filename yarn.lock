@@ -44,3 +44,8 @@ ws@^6.0.0:
   integrity sha512-GIyAXC2cB7LjvpgMt9EKS2ldqr0MTrORaleiOno6TweZ6r3TKtoFQWay/2PceJ3RuBasOHzXNn5Lrw1X0bEjqA==
   dependencies:
     async-limiter "~1.0.0"
+
+wumpfetch@^0.2.13:
+  version "0.2.13"
+  resolved "https://registry.yarnpkg.com/wumpfetch/-/wumpfetch-0.2.13.tgz#7bd0cb41dafddb2be0a813dd9576d3ad919297ef"
+  integrity sha512-ALWw6oDSdk6oYqrJuffQjzTPicYgzTR1sLgX+SMgnXZQTikuM8hFhznSMmIoa+qVCiUaLYtjhSkS2SE/BTRyxw==
